@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
 
-public class FreeCount {
+public class FrequencyCount {
 
     public static void main(String[] args) {
         System.out.println(frequencySort("tree"));
