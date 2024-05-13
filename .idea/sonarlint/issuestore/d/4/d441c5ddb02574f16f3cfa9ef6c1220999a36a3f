@@ -1,0 +1,12 @@
+
+x
+java:S1854
+"5Remove this useless assignment to local variable "s".(¡µéú8‹ÈËÅö1J$84d60bea-a332-4c47-89db-4fcb4e34e10a
+i
+java:S1481
+"&Remove this unused "s" local variable.(¡µéú8ŒÈËÅö1J$23272212-6d09-4b7c-b221-8fe584daf2e2
+r	java:S106"+Replace this use of System.out by a logger.(Ë¼‚Ÿûÿÿÿÿ8ÈËÅö1J$38660868-6426-4ace-93da-c52ee3fdc7ec
+l	java:S106"+Replace this use of System.out by a logger.(öÛL8ÈËÅö1J$b2f23ccb-0e1a-433a-b9f9-e9a8ecdd47a2
+r	java:S106"+Replace this use of System.out by a logger.(¼Ã½Èøÿÿÿÿ8ÈËÅö1J$6fd85433-9d4e-4bb9-b4c7-eaf8e1ce894c
+r	java:S106"+Replace this use of System.out by a logger.(šæãÜüÿÿÿÿ8ÈËÅö1J$4e320f36-65e1-4f4d-bfe0-e06dd7222348
+r	java:S106"+Replace this use of System.out by a logger.(­ÄÚ¯ÿÿÿÿÿ8ËêÌÅö1J$63cda429-69ee-4c0a-90d8-ed9b5abc9fd9
