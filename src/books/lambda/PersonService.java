@@ -1,5 +1,6 @@
 package books.lambda;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -15,6 +16,13 @@ public class PersonService {
         }
     });
 
+
+    Filterable fileAgeGraterThan30 = new Filterable() {
+        @Override
+        public boolean apply(Person person) {
+            return person.getAge() > 30;
+        }
+    };
 
     public List<Person> filter(List<Person> personList, Filterable filterable){
         List<Person> filteredPersonList = new ArrayList<>();
