@@ -55,3 +55,7 @@ _
 /src/books/lambda/contactApp/FilterCriteria.java,e\1\e1cd8956ce82b2d9ae42be5b0b9eb83d4da36235
 [
 +src/books/lambda/contactApp/ContactApp.java,e\b\eb1dfab447807370a3048f0a1f7a79dec9af8ba2
+W
+'src/books/lambda/IntegerFinderDemo.java,7\8\784a2a710a6cbb5a1f82bc2b01d115a626b8e65e
+Z
+*src/books/lambda/WordFrequencyCounter.java,9\5\9537ec8e2f20c9572ca7bd3485f10ee298765cb0

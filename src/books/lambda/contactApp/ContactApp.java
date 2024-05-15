@@ -17,6 +17,7 @@ public class ContactApp {
             public boolean match(Contact contact) {
                 return 18<=contact.getAge() && contact.getAge()<=25;
             }
+
         });
 
         // By Lambda expression
