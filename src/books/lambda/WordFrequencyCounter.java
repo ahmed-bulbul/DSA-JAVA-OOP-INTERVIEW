@@ -29,6 +29,16 @@ public class WordFrequencyCounter {
 
         return frequencymap;
     }
+
+    public static Map<String,Long> countFrequencyLambda3 (List<String> words){
+        Map<String,Long> frequencymap = new HashMap<>();
+        for(String word : words){
+            frequencymap.merge(word,1L, Long::sum);
+        }
+
+        return frequencymap;
+    }
+
     public static Map<String,Long> countFrequencyLambda2 (List<String> words){
         return words.stream().collect(Collectors.groupingBy(Function.identity(), Collectors. counting()));
     }

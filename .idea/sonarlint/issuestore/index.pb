@@ -59,3 +59,9 @@ W
 'src/books/lambda/IntegerFinderDemo.java,7\8\784a2a710a6cbb5a1f82bc2b01d115a626b8e65e
 Z
 *src/books/lambda/WordFrequencyCounter.java,9\5\9537ec8e2f20c9572ca7bd3485f10ee298765cb0
+Z
+*src/books/definitionAndSyntax/Contact.java,6\2\622334b86bd6ce8831a0295544d48e6882799c68
+a
+1src/books/definitionAndSyntax/ContactService.java,9\8\98e2a947afbb3569a7626a9e7959f554ab4cb90f
+\
+,src/books/definitionAndSyntax/Converter.java,7\c\7c2b31ebefbc9de8a67ea788b8e3392e90cd99ee

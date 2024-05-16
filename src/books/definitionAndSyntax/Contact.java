@@ -1,4 +1,4 @@
-package books.lambda.contactApp;
+package books.definitionAndSyntax;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -73,15 +73,5 @@ public class Contact {
         }
 
         return contacts;
-    }
-
-    @Override
-    public String toString() {
-        return "Contact{" +
-                "name='" + name + '\'' +
-                ", email='" + email + '\'' +
-                ", age=" + age +
-                ", gender=" + gender +
-                '}';
     }
 }
