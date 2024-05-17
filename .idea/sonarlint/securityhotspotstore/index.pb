@@ -65,3 +65,11 @@ a
 1src/books/definitionAndSyntax/ContactService.java,9\8\98e2a947afbb3569a7626a9e7959f554ab4cb90f
 \
 ,src/books/definitionAndSyntax/Converter.java,7\c\7c2b31ebefbc9de8a67ea788b8e3392e90cd99ee
+X
+(src/books/definitionAndSyntax/Adder.java,d\0\d0815ec78b2225554334443e09124b28a8b73b93
+\
+,src/books/definitionAndSyntax/AdderImpl.java,d\3\d328f568196b1e8f7764397f6b0137a5e9b7ad28
+d
+4src/books/definitionAndSyntax/MessageTranslator.java,9\6\9699fbfb59279ccf0e8ef011167e0df7e031ccf8
+^
+.src/books/definitionAndSyntax/EmailSender.java,8\0\80b40c79667328ebb0d41796a1168290b71a881e
