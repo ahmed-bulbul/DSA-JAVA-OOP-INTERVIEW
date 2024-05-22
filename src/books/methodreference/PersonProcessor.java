@@ -26,5 +26,9 @@ public class PersonProcessor {
         BiFunction<String,Integer,Person> func4 = Person::new;
         Person p = func4.apply("bulbul",10);
         System.out.println(p);
+
+        persons.forEach(p1->{
+            if(p1.getName().equals("h")) return;
+        });
     }
 }

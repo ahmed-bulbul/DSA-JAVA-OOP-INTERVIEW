@@ -121,3 +121,15 @@ U
 %src/books/methodreference/Person.java,3\2\326930d3c672e01c3bf5c11c1ca340f5830e0414
 ^
 .src/books/methodreference/PersonProcessor.java,d\e\de6198c2cd8a9be46aabf9128e9e8e7eefe9d4ad
+L
+src/annonimous/Keyboard.java,a\f\af29140c470e07f745d1a37606c37ac0052523cb
+H
+src/annonimous/Main.java,7\b\7beea6863532f837893ee31c79e6122682a3eec1
+W
+'src/books/defaultMethod/GameSprite.java,8\6\8604ca24c4209dfc9504a3f1654b48b546b35a40
+X
+(src/books/defaultMethod/Conversable.java,5\7\572de8293ae35faa541506237b678789ff8acd91
+N
+src/books/defaultMethod/A.java,8\a\8a6f26b40565591c7233beecb89e1344f12907a6
+U
+%src/books/defaultMethod/Loggable.java,e\7\e7fa2a8fcaed67b6fc890aca266849d927e9f2e6
