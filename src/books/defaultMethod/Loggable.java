@@ -56,6 +56,7 @@ class LoggableImpl implements Loggable{
         LoggableImpl loggable = new LoggableImpl();
         X x = new X();
         loggable.logInfo("This is a test message with {} and {}", x);
+        loggable.error("This is a test message with {} and {}", x);
     }
 }
 
