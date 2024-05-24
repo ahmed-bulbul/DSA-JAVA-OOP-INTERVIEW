@@ -50,9 +50,6 @@ public class ContactService {
         String h = titleCaseConverter.apply("bangladesh dhaka");
         System.out.println(h);
 
-
-
-
     }
 }
 
