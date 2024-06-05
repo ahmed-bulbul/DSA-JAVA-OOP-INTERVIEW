@@ -5,6 +5,7 @@ import java.util.Optional;
 public class Person {
 
     private Optional<SmartPhone> smartPhone;
+    private String sex;
 
     public Optional<SmartPhone> getSmartPhone() {
         return smartPhone;
@@ -26,8 +27,20 @@ public class Person {
         return null;
     }
 
+    Person person3 = finPersonByName("James");
 
+    public Person finPersonByName(String james) {
+        return new Person();
+    }
 
+    public String getSex() {
+        return sex;
+    }
+
+    public Person setSex(String sex) {
+        this.sex = sex;
+        return this;
+    }
 
     public static void main(String[] args) {
         Person person = new Person();

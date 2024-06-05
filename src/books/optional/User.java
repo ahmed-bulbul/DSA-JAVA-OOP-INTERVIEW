@@ -3,6 +3,7 @@ package books.optional;
 public class User {
     private long id;
     private String name;
+    private String login;
 
     public User() {
     }
@@ -21,5 +22,14 @@ public class User {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getLogin() {
+        return login;
+    }
+
+    public User setLogin(String login) {
+        this.login = login;
+        return this;
     }
 }
