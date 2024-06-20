@@ -1,5 +1,8 @@
 package dsa.hashing;
 
+import java.util.Map;
+import java.util.Set;
+
 public class HashTable {
 
     private HashNode[] buckets;
@@ -113,6 +116,7 @@ public class HashTable {
        // System.out.println(table.remove(21));
     //    System.out.println(table.remove(31));
       //  System.out.println(table.size());
+
     }
 
 }

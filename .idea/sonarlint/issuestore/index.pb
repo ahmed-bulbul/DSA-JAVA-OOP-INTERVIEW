@@ -167,3 +167,5 @@ M
 src/dsa/queues/QueueMain.java,d\3\d3f93365b1f6d32a25e1558b3af174001cd933c4
 I
 src/dsa/queues/Queue.java,6\b\6bbfec5c37e14464198906c098b71a3c07bc64a6
+n
+>src/books/advantageOflambda/InnerClassVariableBindingDemo.java,4\6\465cf766492f822138873781928c45ce6409c493
