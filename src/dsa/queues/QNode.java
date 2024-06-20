@@ -1,4 +1,4 @@
-package queues;
+package dsa.queues;
 
 public class QNode {
 

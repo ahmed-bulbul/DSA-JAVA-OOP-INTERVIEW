@@ -1,4 +1,4 @@
-package queues;
+package dsa.queues;
 
 public class LinkedQueue <Item> implements Queue<Item>{
 

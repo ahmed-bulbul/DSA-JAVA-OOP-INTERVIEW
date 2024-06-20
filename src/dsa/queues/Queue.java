@@ -1,4 +1,4 @@
-package queues;
+package dsa.queues;
 
 public interface Queue <Item>{
     Item delete();

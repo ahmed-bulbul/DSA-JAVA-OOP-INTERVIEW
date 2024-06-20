@@ -147,3 +147,23 @@ U
 %src/books/optional/StreamCountry.java,7\c\7c6ee611d2010957e8743be566439566d9796422
 O
 src/books/optional/Country.java,2\6\26c35aca6592fabb3651187fe45eddbc76414b7b
+W
+'src/books/advantageOflambda/Person.java,c\2\c2b842d3c3cd3122de803fc157a239caf342cd19
+[
++src/books/advantageOflambda/PersonMain.java,3\7\37aab232fa0d67e3d5cb5026834b839acc18bfc4
+N
+src/dsa/hashing/HashTable.java,4\9\49155b1fbd868800da571074a8d71bcb8647630d
+L
+src/dsa/linkedlist/Node.java,d\f\df7f570f6bfc69368a30eba1f84ebf067f8a42b9
+X
+(src/dsa/linkedlist/SinglyLinkedList.java,f\c\fc3096c127806a362ea1451d57c7528141b274ee
+O
+src/dsa/queues/LinkedQueue.java,6\b\6b368826e170056e3c012cc62265acc4ab62f39c
+P
+ src/dsa/stack/InBuiltExmple.java,7\7\778001dca2204d0ac11026e2377fb09c6fb456f7
+I
+src/dsa/queues/QNode.java,1\1\1146955c99503a63380e834a71c4c5530dbf05d9
+M
+src/dsa/queues/QueueMain.java,d\3\d3f93365b1f6d32a25e1558b3af174001cd933c4
+I
+src/dsa/queues/Queue.java,6\b\6bbfec5c37e14464198906c098b71a3c07bc64a6
