@@ -169,3 +169,15 @@ I
 src/dsa/queues/Queue.java,6\b\6bbfec5c37e14464198906c098b71a3c07bc64a6
 n
 >src/books/advantageOflambda/InnerClassVariableBindingDemo.java,4\6\465cf766492f822138873781928c45ce6409c493
+q
+Asrc/books/useOfLambdaExpression/commandDesignPattern/Command.java,8\2\827397ab2708a28221499e1bc4c5e78531e22fec
+l
+<src/books/useOfLambdaExpression/commandDesignPattern/Tv.java,e\5\e5cae6d1252473c9c8ce6f222bf17cc2ac53c925
+w
+Gsrc/books/useOfLambdaExpression/commandDesignPattern/RemoteControl.java,c\4\c46c97dac520c7d2856bbfbc52a432a1cb0fe41e
+r
+Bsrc/books/useOfLambdaExpression/commandDesignPattern/TvClient.java,2\f\2fa8795396c949ba85a1ef276d0dbba458b7bbbd
+z
+Jsrc/books/useOfLambdaExpression/commandDesignPattern/remove/OnCommand.java,8\4\841c5aa527f25adce479e6a2a96415d301ff4606
+{
+Ksrc/books/useOfLambdaExpression/commandDesignPattern/remove/OffCommand.java,e\9\e9f50fa9aba8249b10e8414d535d5b1e2ec9cc79
