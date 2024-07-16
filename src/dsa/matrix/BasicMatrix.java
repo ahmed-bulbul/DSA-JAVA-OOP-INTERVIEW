@@ -7,9 +7,13 @@ public class BasicMatrix {
       //  obj.accessElement(obj.arr);
         //obj.searchElement(obj.arr, 5);
         //obj.addMatrix(obj.arr, obj.arr);
-        obj.rotate180(obj.arr);
+     //   obj.rotate180(obj.arr);
+        obj.rotate2(obj.arr);
     }
-    int[][] arr = {{1,2,3},{4,5,6},{7,8,9}};
+    int[][] arr = {{   1,2,3,4 }
+                    ,{ 5,6,7,8 },
+                    {  9,10,11,12},
+                    {  13,14,15,16}};
 
     //Accessing elements of a matrix
     public void accessElement(int[][] arr){
@@ -64,5 +68,44 @@ public class BasicMatrix {
 
         accessElement(new_arr);
 
+    }
+
+    public void rotate2(int[][] arr){
+        int m = arr.length;
+        int n = arr[0].length;
+        int[][] new_arr = new int[m][n];
+
+        //transpose of a matrix
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                new_arr[i][j] = arr[j][i];
+            }
+        }
+
+        ///reverse the matrix
+        int[][] new_arr_2 = new int[m][n];
+        for(int i = m,k=0;i>0;i--,k++){
+            for(int j = 0,l=0;j<n;j++,l++){
+                new_arr_2[k][l] = new_arr[i-1][j];
+            }
+        }
+
+        //transpose of a matrix
+        int[][] new_arr_3 = new int[m][n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                new_arr_3[i][j] = new_arr_2[j][i];
+            }
+        }
+
+        ///reverse the matrix
+        int[][] new_arr_4 = new int[m][n];
+        for(int i = m,k=0;i>0;i--,k++){
+            for(int j = 0,l=0;j<n;j++,l++){
+                new_arr_4[k][l] = new_arr_3[i-1][j];
+            }
+        }
+
+        accessElement(new_arr_4);
     }
 }
