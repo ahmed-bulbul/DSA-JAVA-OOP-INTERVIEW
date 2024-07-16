@@ -181,3 +181,19 @@ z
 Jsrc/books/useOfLambdaExpression/commandDesignPattern/remove/OnCommand.java,8\4\841c5aa527f25adce479e6a2a96415d301ff4606
 {
 Ksrc/books/useOfLambdaExpression/commandDesignPattern/remove/OffCommand.java,e\9\e9f50fa9aba8249b10e8414d535d5b1e2ec9cc79
+H
+src/dsa/array/Array.java,3\8\380450a2cb6175be0152c7c1f8794bb2c49c8dd0
+z
+Jsrc/books/useOfLambdaExpression/lightWeightStrgtyPattern/Communicable.java,a\e\ae0edbf31f469e73589be9a9b8d05eb49bb7c523
+s
+Csrc/books/useOfLambdaExpression/lightWeightStrgtyPattern/Email.java,c\7\c7058a68a84e04dd93af81edfe8972a68bb02996
+w
+Gsrc/books/useOfLambdaExpression/lightWeightStrgtyPattern/PhoneCall.java,e\8\e84ad1d6001007f89ef760758a05b2869614ff52
+w
+Gsrc/books/useOfLambdaExpression/lightWeightStrgtyPattern/VideoCall.java,e\f\ef85e6418f68f0715c3fa41a336128eda84e2562
+‚
+Rsrc/books/useOfLambdaExpression/lightWeightStrgtyPattern/CommunicationService.java,9\c\9cb6c2059e50ebc5875b9aa7473c04aa3198235e
+†
+Vsrc/books/useOfLambdaExpression/lightWeightStrgtyPattern/CommunicationApplication.java,e\7\e739a97cef1e4ee7298fa7b09a4d1152c66ce0f7
+O
+src/dsa/matrix/BasicMatrix.java,c\c\cc689045d1391edbcfb3adb872e2b045f42bea13
