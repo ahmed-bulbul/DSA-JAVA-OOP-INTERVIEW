@@ -1,0 +1,33 @@
+
+p
+java:S1604"(Make this anonymous inner class a lambda(ØÍÄÉûÿÿÿÿ8ÙÚÍ°2J$970b9010-d04d-4aad-9ab4-70c1967014d9
+‰
+java:S18542"ARemove this useless assignment to local variable "integerStream".(®óÿ¿úÿÿÿÿ8ŒÛÍ°2J$f8a219b5-52a7-49b3-9f2f-06669f0e2b19
+z
+java:S14812"2Remove this unused "integerStream" local variable.(®óÿ¿úÿÿÿÿ8ÛÍ°2J$969e57be-5987-404c-b740-7207eb7b81e7
+s
+java:S22017"+The return value of "collect" must be used.(–Á½şÿÿÿÿ8ÛÍ°2J$8cc86e78-17cd-4272-9721-080dc13e42f8
+r	java:S106;"+Replace this use of System.out by a logger.(‹æÍšşÿÿÿÿ8ÛÍ°2J$dbb6adb1-7f9d-4f03-b71b-c503000626d6
+r	java:S106?"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8ÛÍ°2J$1b7ab8f4-b879-49c9-8382-626f02c226c6
+m	java:S106D"+Replace this use of System.out by a logger.(³Êæ´8ÛÍ°2J$f907e51e-d260-4cf6-9bf7-b6c62f641a47
+r	java:S106H"+Replace this use of System.out by a logger.(ßëõ÷şÿÿÿÿ8‘ÛÍ°2J$b3078ed7-4afd-4a44-b6bf-0b5660161cf8
+€
+java:S1612J"=Replace this lambda with method reference 'UUID::randomUUID'.(ÛòÂ™8’ÛÍ°2J$450258d5-754e-43f1-b5a5-af6a8b527acc
+r	java:S106K"+Replace this use of System.out by a logger.(¸ìƒ£ıÿÿÿÿ8’ÛÍ°2J$cf88d8a1-8e1c-448c-a1af-14aab985054b
+m	java:S106N"+Replace this use of System.out by a logger.(ïë­Î8“ÛÍ°2J$534ed568-fe9b-472a-8e11-52769b798614
+m	java:S106Q"+Replace this use of System.out by a logger.(·Ê¬8“ÛÍ°2J$6bdae1a9-11d6-4aa2-9131-31d244ea1b67
+m	java:S106i"+Replace this use of System.out by a logger.(ÆÀ³À8ªÅÏ°2J$ad3abee2-0132-4f73-ae29-5351b4bcf5aa
+ƒ	java:S125S"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8”ÛÍ°2J$8d1604ff-6c2c-4367-9c9d-150ee80d61da
+ˆ
+java:S1612n"@Replace this lambda with method reference 'System.out::println'.(½àÏ³øÿÿÿÿ8ªÅÏ°2J$9354c7d8-dffd-48b4-aa67-3045a954b05f
+L	java:S106n"+Replace this use of System.out by a logger.(½àÏ³øÿÿÿÿ8ßĞ°2
+v
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8•ÛÍ°2J$241863d4-7fcd-49e7-a27c-397e7dedf2c0
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8•ÛÍ°2J$48a292e7-d6f5-4985-8758-8a7df94e49f2
+y
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8•ÛÍ°2J$073eda30-67af-4d6d-ad61-05a4535af508
+q
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8•ÛÍ°2J$f1815522-0655-4c65-9ee0-5ecbaaa1de35
+v
+java:S1128"3Remove this unused import 'java.net.URLConnection'.(š¿šó8•ÛÍ°2J$7b8e857b-b141-48fd-b85c-ba60b1f674b0
