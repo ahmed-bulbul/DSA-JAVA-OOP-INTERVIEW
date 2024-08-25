@@ -15,6 +15,7 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+.idea
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -27,3 +28,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea
