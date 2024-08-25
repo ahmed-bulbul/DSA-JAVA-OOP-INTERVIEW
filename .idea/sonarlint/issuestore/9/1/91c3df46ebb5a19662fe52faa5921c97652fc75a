@@ -1,0 +1,12 @@
+
+G
+java:S1197",Move the array designators [][] to the type.(©ßýÒþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÜŒìÆúÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(›Ö¬»
+6
+java:S36268"Remove this redundant jump.(´’ãŠüÿÿÿÿ
+:
+java:S1659("Declare "j" on a separate line.(õÐý»þÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(Ó¾¿µøÿÿÿÿ
+@	java:S1067"+Replace this use of System.out by a logger.(›Ö¬»
+V	java:S1258"<This block of commented-out lines of code should be removed.(´’ãŠüÿÿÿÿ

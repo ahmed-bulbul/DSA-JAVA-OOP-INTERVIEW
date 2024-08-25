@@ -1,0 +1,14 @@
+
+~	java:S125+"<This block of commented-out lines of code should be removed.(ÅŞ»8‚µü±2J$81a0af96-391f-43c7-a0dd-a9f70d3451c6
+~	java:S125<"<This block of commented-out lines of code should be removed.(‘Üã«8­èû±2J$4275fbd7-9a37-458b-ba8d-2830ba928dc9
+r	java:S106G"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8Û¾ú±2J$6b22ea66-5880-48b4-95e7-d01992bcd9ea
+r	java:S106K"+Replace this use of System.out by a logger.(²ñã…øÿÿÿÿ8ÎŞÆĞ2J$7ba00fdd-258a-4541-b8b7-c05f37d6b9ee
+u
+java:S1128"2Remove this unused import 'books.defaultMethod.A'.(Ü‘8Ü¾ú±2J$61ee2527-dd64-4d1e-95ad-af69f8b33ce8
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8µü±2J$cb80ea75-bc96-4059-8bc5-7c2d3c6a3084
+w
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8µü±2J$8200bf23-c9a0-4f69-884b-6d98b0e55ad6
+k
+java:S1068
+"(Remove this unused "name" private field.(Ë¥¼8Ü¾ú±2J$424c38cb-b3c5-4b11-95f2-2ba1c5ff0433

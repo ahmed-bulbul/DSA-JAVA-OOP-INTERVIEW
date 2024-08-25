@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ô±¹8›¡¿úŒ2J$0b4b4f12-350e-4587-9c52-349a5ae2c2bf
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(‘ÇþÈûÿÿÿÿ8¢¡¿úŒ2J$35e9de70-c3a2-45ba-aacf-c67a681fcdcc
+r	java:S106<"+Replace this use of System.out by a logger.(©Æëîÿÿÿÿÿ8¢¡¿úŒ2J$600c20a0-ba1a-40eb-9b05-a22b357bf502
+m	java:S106B"+Replace this use of System.out by a logger.(øãÌÿ8¢¡¿úŒ2J$2c7264c2-8717-40da-a908-7b0d9186cc2e
+u
+java:S1128"2Remove this unused import 'books.defaultMethod.A'.(Ü‘8¢¡¿úŒ2J$4396d7a9-bc03-48a9-a5e7-8b183cc41c2a

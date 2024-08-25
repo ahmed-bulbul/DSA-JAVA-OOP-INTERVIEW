@@ -1,0 +1,6 @@
+
+š
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'Predicate<String>'(ßÞ¦‡8íŒ³ˆù1J$4e7d4ef7-747c-4c25-b5da-92391bcea914
+r	java:S106	"+Replace this use of System.out by a logger.(ÇúªÓþÿÿÿÿ8ïŒ³ˆù1J$a3033cf4-84cb-48fd-a54b-7d496a9d77d9
+†
+java:S1612">Replace this lambda with method reference 'utils::isNotEmpty'.(Ü«È—ÿÿÿÿÿ8ðŒ³ˆù1J$59b955ee-0366-4e24-914c-0e82a07168ea

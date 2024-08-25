@@ -1,0 +1,10 @@
+
+k
+java:S1604"(Make this anonymous inner class a lambda(§€ç°8§µ›¯ƒ2J$6990c3f9-0253-4417-9a9c-0a7955e6edab
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ï¹;8©µ›¯ƒ2J$c88d1b38-bf0c-4b69-9685-4ccbf776c676
+
+java:S1854"7Remove this useless assignment to local variable "rad".(Ñ»ìøÿÿÿÿ8±µ›¯ƒ2J$0f5d3945-7d17-45b9-906d-b84e75e999c9
+m	java:S106"+Replace this use of System.out by a logger.(ìç‹£8™îŸ¯ƒ2J$08a05748-4efe-456d-9123-1d6b93ed10bd
+m	java:S106"+Replace this use of System.out by a logger.(—½ËÍ8¢­¢¯ƒ2J$e3fd4648-4fb7-4213-a394-1c000c2d208a
+p
+java:S1481"(Remove this unused "rad" local variable.(Ñ»ìøÿÿÿÿ8·µ›¯ƒ2J$710333de-5921-468b-b4fd-af3bfeb412f0

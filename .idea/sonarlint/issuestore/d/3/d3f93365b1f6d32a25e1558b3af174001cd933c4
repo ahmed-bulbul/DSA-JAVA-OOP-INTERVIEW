@@ -1,0 +1,9 @@
+
+=
+java:S1659""Declare "rear" on a separate line.(«Ì ùÿÿÿÿ
+N
+java:S1854&"8Remove this useless assignment to local variable "temp".(¼«¢õ
+?
+java:S1481&")Remove this unused "temp" local variable.(¼«¢õ
+E	java:S106:"+Replace this use of System.out by a logger.(ÚÃ»»ùÿÿÿÿ
+@	java:S106;"+Replace this use of System.out by a logger.(§”ß¾

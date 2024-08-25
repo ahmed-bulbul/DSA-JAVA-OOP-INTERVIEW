@@ -1,0 +1,7 @@
+
+m	java:S106s"+Replace this use of System.out by a logger.(À×û®8‹×ö¬ƒ2J$ecd17ecd-a554-44a4-b735-517ae09ea396
+~	java:S125t"<This block of commented-out lines of code should be removed.(¹‡ì·8Ž×ö¬ƒ2J$d937be1d-77d1-4e38-939b-830a5fab82b3
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8‘×ö¬ƒ2J$fe2812c4-a6f3-450f-95ca-ac92028aeace
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8‘×ö¬ƒ2J$ed766447-2b89-4fe6-8a36-afb22cfb872c

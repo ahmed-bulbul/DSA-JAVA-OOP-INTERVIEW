@@ -1,0 +1,25 @@
+
+V
+java:S1854w":Remove this useless assignment to local variable "people".(Å®ÍO8È’©Ú2
+b
+java:S1854<"@Remove this useless assignment to local variable "personStream".(Çüºßùÿÿÿÿ8É’©Ú2
+S
+java:S1481<"1Remove this unused "personStream" local variable.(Çüºßùÿÿÿÿ8Ì’©Ú2
+]	java:S125D"<This block of commented-out lines of code should be removed.(Ñô†ùÿÿÿÿ8Í’©Ú2
+]	java:S125M"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ8Í’©Ú2
+]	java:S125Q"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ8Í’©Ú2
+X	java:S125]"<This block of commented-out lines of code should be removed.(«Ğï¥8Ï’©Ú2
+]	java:S125h"<This block of commented-out lines of code should be removed.(À§†Öşÿÿÿÿ8Ï’©Ú2
+]	java:S125k"<This block of commented-out lines of code should be removed.(˜±üÕûÿÿÿÿ8Ï’©Ú2
+]	java:S125t"<This block of commented-out lines of code should be removed.(×ãÅïûÿÿÿÿ8Ï’©Ú2
+—
+java:S6204z"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8Ñ’©Ú2
+C
+java:S3864x"!Remove this use of "Stream.peek".(†ˆ‹Êùÿÿÿÿ8Ò’©Ú2
+L	java:S106x"+Replace this use of System.out by a logger.(†ˆ‹Êùÿÿÿÿ8Ó’©Ú2
+G
+java:S1481w"+Remove this unused "people" local variable.(Å®ÍO8Õ’©Ú2
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8×’©Ú2
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8×’©Ú2

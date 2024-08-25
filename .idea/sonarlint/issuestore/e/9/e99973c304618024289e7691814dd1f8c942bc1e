@@ -1,0 +1,16 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¶Ò©ùÿÿÿÿ8ÌèÏùŒ2J$e7a521ba-7ad4-4b84-b37e-3c4c4b27da91
+£
+java:S4276	"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Coffee>'(ïÊ²ûúÿÿÿÿ8ÜèÏùŒ2J$7450c535-e686-464b-8fec-89f5fed56c17
+ƒ	java:S125	"<This block of commented-out lines of code should be removed.(ïÊ²ûúÿÿÿÿ8ÜèÏùŒ2J$e22710ca-aba7-4d7d-948d-335b9dfdc1c2
+
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Coffee>'(±áöµ8ÜèÏùŒ2J$a9c87c83-c8e4-458a-98dd-fb38f6f428b3
+m
+java:S2201"*The return value of "reduce" must be used.(çÀÜÅ8ÜèÏùŒ2J$9a142a72-d7e6-4b32-82d5-a192f58cb78b
+
+java:S1612">Replace this lambda with method reference 'Function::andThen'.(çÀÜÅ8ÜèÏùŒ2J$38510fc1-592e-4a7e-9686-bf99a21a1d3a
+r
+java:S2201"*The return value of "reduce" must be used.(ößë’ÿÿÿÿÿ8ÜèÏùŒ2J$e951a171-3e11-4630-9bf0-8567da8838ae
+
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Coffee>'(®ãÖÂ8ÜèÏùŒ2J$987a5a0f-4f4e-413a-ae78-5ab3a6d7b652
+r	java:S106("+Replace this use of System.out by a logger.(­…şÅøÿÿÿÿ8ÜèÏùŒ2J$aa2f2f60-a2e2-4c1b-a36c-f39662c77673

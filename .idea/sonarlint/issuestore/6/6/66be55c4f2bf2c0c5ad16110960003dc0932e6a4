@@ -1,0 +1,29 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(ŞšÆê8ÍÍ¼­2J$c3e41413-315b-42ca-93a3-5bc48de2ed98
+k
+java:S1604j"(Make this anonymous inner class a lambda(¿Èùä8øÕÄ­2J$abb3b57e-9cff-4f63-8819-180cf97f5370
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ƒâá8ÏÍ¼­2J$1684d376-84d8-4b3d-9b59-c983a3441a0f
+ƒ	java:S125 "<This block of commented-out lines of code should be removed.(Êûçİúÿÿÿÿ8âÍ¼­2J$164e18d4-d113-407a-9a57-75c8161218ec
+~	java:S125'"<This block of commented-out lines of code should be removed.(âŞ ±8âÍ¼­2J$e6495ce5-122a-4384-b93b-70d724ad4aa1
+ƒ
+java:S1854V";Remove this useless assignment to local variable "numbers".(·¶ğüÿÿÿÿ8ãÍ¼­2J$04ea5ece-475b-42ad-9d07-1a1af0c3844f
+€
+java:S1854S"=Remove this useless assignment to local variable "intHolder".(ŠÕüã8ãÍ¼­2J$fa74d95f-89ca-4dac-abfa-566961fd62ad
+z
+java:S1854I"7Remove this useless assignment to local variable "sum".(ŠÑş¨8ãÍ¼­2J$469d48e6-8568-4ace-b82d-43f221a7d791
+k
+java:S1481I"(Remove this unused "sum" local variable.(ŠÑş¨8æÍ¼­2J$3ce43b45-f102-452f-bce0-a99152b09080
+q
+java:S1481S".Remove this unused "intHolder" local variable.(ŠÕüã8èÍ¼­2J$a76cc705-d101-40ad-9ac7-9e679be69786
+~	java:S125T"<This block of commented-out lines of code should be removed.(ÄüÕî8èÍ¼­2J$0f366089-f99f-43cd-a9b0-b26b268e8e01
+t
+java:S1481V",Remove this unused "numbers" local variable.(·¶ğüÿÿÿÿ8èÍ¼­2J$9d9f7b26-3e4e-411e-af53-29315c466422
+~	java:S125W"<This block of commented-out lines of code should be removed.(åİñ8éÍ¼­2J$a2ff2079-a0b9-455e-9f4c-06f1d4ab792d
+m	java:S106m"+Replace this use of System.out by a logger.(«òˆì8›ÖÄ­2J$5c4c19c4-ec06-4408-834a-bb7f58ac9155
+u
+java:S1128"2Remove this unused import 'books.defaultMethod.A'.(Ü‘8„ÕÃ­2J$b72f9dc3-4098-4708-a0f6-029b8116ef83
+y
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8„ÕÃ­2J$4d34c350-aee7-4af6-a0e1-bbf68a72f842
+r
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8„ÕÃ­2J$9f717742-01aa-4e59-9c0a-34c834f953d2

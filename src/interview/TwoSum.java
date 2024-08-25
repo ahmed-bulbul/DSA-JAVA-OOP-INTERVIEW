@@ -2,6 +2,8 @@ package interview;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Observable;
+import java.util.Observer;
 
 public class TwoSum {
     public static void main(String[] args) {
@@ -25,4 +27,5 @@ public class TwoSum {
         }
         throw new IllegalArgumentException("No two sum solution");
     }
+
 }

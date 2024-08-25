@@ -1,0 +1,16 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ù—Ø8°á‹Óø1J$2119aa8a-2ead-4890-93a8-04ae2ec6e47c
+|
+java:S1854"9Remove this useless assignment to local variable "adder".(Ú¾Ë8¼á‹Óø1J$abf8e8f3-5e45-41aa-8b5c-cfb98fa1a025
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Êİåùÿÿÿÿ8¾á‹Óø1J$28bd437a-0123-49cd-a454-414a436a7300
+p
+java:S1481"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ8Áá‹Óø1J$48fedbe3-4083-4d66-95a6-c6730314eb00
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ô†£ûÿÿÿÿ8Âá‹Óø1J$4eb5eef1-c060-4fc5-862e-153618abeb83
+m
+java:S1481"*Remove this unused "adder" local variable.(Ú¾Ë8Ãá‹Óø1J$536f6ca3-cf08-45ae-b44a-b3186ae878a7
+x
+java:S1117#"5Rename "x" which hides the field declared at line 33.(š—úó8Äá‹Óø1J$f16ceacf-5d93-4e3c-9187-ac9e0092733b
+r	java:S106$"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8Åá‹Óø1J$d2195fc8-d79c-4e64-af02-35ac640076e9
+r	java:S106%"+Replace this use of System.out by a logger.(€óÿÉøÿÿÿÿ8Åá‹Óø1J$6bc43670-7254-447b-befa-357105009a23
+r	java:S106*"+Replace this use of System.out by a logger.(Ñ®—üÿÿÿÿ8Çá‹Óø1J$8dab8a0a-cfbc-46c7-a9f8-b93f65694461

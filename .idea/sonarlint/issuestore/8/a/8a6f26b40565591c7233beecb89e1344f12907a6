@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÑÜ²8™òÓõù1J$a1362033-358d-484f-9ba6-fc546bce67b2
+r	java:S106
+"+Replace this use of System.out by a logger.(ÿÑé„şÿÿÿÿ8¡òÓõù1J$f1da1768-43a0-49a2-a1b7-59d94e5fa7f3
+}
+java:S1161":Add the "@Override" annotation above this method signature(€áœğ8£òÓõù1J$ae9bc201-69dc-4a62-9c1a-847042d89734
+r	java:S106"+Replace this use of System.out by a logger.(Ôü¡øÿÿÿÿ8£òÓõù1J$791cd49b-4d6c-4228-8ea6-53bd500423c8
+~	java:S125"<This block of commented-out lines of code should be removed.(ƒ‹˜û8¦òÓõù1J$e8901531-c6bc-43d2-84ae-da939d62f5fc
+r	java:S106 "+Replace this use of System.out by a logger.(ŸƒÖÀûÿÿÿÿ8ŒÖõù1J$8f2441f9-123a-40cf-ad9e-2c4ad77d3efb
+m	java:S106!"+Replace this use of System.out by a logger.(»Òóœ8¾ÏØõù1J$cf75fa0a-a167-4ccb-b3d0-835e223a5d50
+m	java:S106""+Replace this use of System.out by a logger.(µˆœÑ8¡×Úõù1J$df2bc063-74d6-466b-957f-1ab874d600a6

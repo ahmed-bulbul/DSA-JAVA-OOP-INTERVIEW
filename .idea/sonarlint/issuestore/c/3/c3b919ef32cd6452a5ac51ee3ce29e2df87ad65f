@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊ“¬øÿÿÿÿ8ÅÿïŸ2
+o
+java:S1128"SRemove this unused import 'books.useOfLambdaExpression.fluentProgramming.Sandwich'.(×¿Ì&8ÔÿïŸ2
+E
+java:S1068"(Remove this unused "disk" private field.(Ë¹å±8ÔÿïŸ2
+J
+java:S1068	"-Remove this unused "processor" private field.(­èöÜ8ÔÿïŸ2

@@ -1,0 +1,16 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ù—Ø8’Ûìş÷1J$f3014c93-75be-46fc-9c00-647040ff4281
+–
+java:S1602	"SRemove useless curly braces around statement and then remove useless return keyword(šŞ©•8šÛìş÷1J$3e2ca4f0-8da4-4113-9a5c-8b72cfd6c09c
+m	java:S106"+Replace this use of System.out by a logger.(òÆ·Á8ŸÛìş÷1J$c6eab3cf-0a3d-46d2-b849-cca08ad68d85
+r	java:S106"+Replace this use of System.out by a logger.(ø¿âÿÿÿÿÿ8 Ûìş÷1J$1231f756-487b-4e2a-92ae-1e00c2d74408
+ƒ
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(°Ş¯Ç8¢Ûìş÷1J$c0e224c0-66bd-4de7-a8da-d869cc4610b6
+r	java:S106"+Replace this use of System.out by a logger.(º‚ìüÿÿÿÿ8£Ûìş÷1J$37368ca4-2c58-4d0d-98d7-fe8520d3d8e4
+m	java:S1063"+Replace this use of System.out by a logger.(šôÈû8´íş÷1J$87708dbf-97b7-404b-900b-a663201af8d8
+€
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8¦Ûìş÷1J$155ad35c-c401-439a-b1df-1dd5433f462b
+t
+java:S1068	"1Remove this unused "ageComparator" private field.(šŞ©•8¦Ûìş÷1J$2ff6f3f6-0a80-4e35-afe1-91ee032c2308
+z
+java:S1068"2Remove this unused "ageComparator2" private field.(Ÿ‹ìûÿÿÿÿ8¦Ûìş÷1J$010df090-6da9-403e-84c5-4870f92f1518

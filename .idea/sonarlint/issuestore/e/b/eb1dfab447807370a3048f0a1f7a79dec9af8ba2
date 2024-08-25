@@ -1,0 +1,30 @@
+
+p
+java:S1604"(Make this anonymous inner class a lambda(× Œãşÿÿÿÿ8‚ôÖ÷1J$51f1230a-5563-4228-a0f4-eb1283b186e0
+p
+java:S1604"(Make this anonymous inner class a lambda(áÑ¡âúÿÿÿÿ8—ÒÌ­÷1J$823f3ff0-0cd1-45b5-bb5b-711bfd50c126
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§Á¦ 8™ÒÌ­÷1J$6957f301-6e77-46ea-8bcc-4e52384553e4
+}
+java:S1854(":Remove this useless assignment to local variable "files2".(»×‰¹8ÒÌ­÷1J$3c52e03b-cef3-4126-9bc0-e2518353b6bf
+‚
+java:S1854%":Remove this useless assignment to local variable "files1".(¨ŞÎˆüÿÿÿÿ8º«Í­÷1J$7a06cb86-ba26-46cf-96d0-80e2de3c9684
+
+java:S1854"9Remove this useless assignment to local variable "files".(áÑ¡âúÿÿÿÿ8ÒÌ­÷1J$ea4de5de-5624-4db0-a7b2-ae4f5ae34b6d
+
+java:S1854"KRemove this useless assignment to local variable "contactAged18To25Female".(ÙËÏå8ÒÌ­÷1J$b3dbaddd-12ef-43d2-aa64-1a22cf478bac
+
+java:S1854"ERemove this useless assignment to local variable "contactAged18To25".(× Œãşÿÿÿÿ8ŸÒÌ­÷1J$ce1720c7-d9c7-4eec-877e-4e90c4cc26d7
+~
+java:S1481"6Remove this unused "contactAged18To25" local variable.(× Œãşÿÿÿÿ8£ÒÌ­÷1J$dbc7f5c6-0d8e-4dae-bb51-9352b5713931
+–
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÙËÏå8£ÒÌ­÷1J$3db97b30-7e70-4c9b-81d2-979292f96501
+
+java:S1481"<Remove this unused "contactAged18To25Female" local variable.(ÙËÏå8¥ÒÌ­÷1J$4aa1cc4e-765e-4a22-8e62-ceff58a6d6d9
+r
+java:S1481"*Remove this unused "files" local variable.(áÑ¡âúÿÿÿÿ8ªÒÌ­÷1J$65598b77-8160-41a0-aa6e-e450c0c8715a
+
+java:S1612%"9Replace this lambda with method reference 'File::isFile'.(¨ŞÎˆüÿÿÿÿ8­ÒÌ­÷1J$7b332bc8-4731-4f35-bdcf-01356578911f
+s
+java:S1481%"+Remove this unused "files1" local variable.(¨ŞÎˆüÿÿÿÿ8¯ÒÌ­÷1J$403652a5-77cd-497d-bce7-eee69a2c5f7b
+n
+java:S1481("+Remove this unused "files2" local variable.(»×‰¹8ÿ‰Î­÷1J$de1498ef-ab1e-403a-b557-df131426fe6a

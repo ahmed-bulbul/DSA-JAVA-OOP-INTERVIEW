@@ -1,0 +1,31 @@
+
+k
+java:S1604"(Make this anonymous inner class a lambda(…ÎÊ¨8ë›¿§ø1J$cbf7bc9d-496c-4ec7-8294-2abc470a02af
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ù—Ø8í›¿§ø1J$50c6330b-ba39-4192-a29f-8cd31d9c1b0e
+x
+java:S1854'"5Remove this useless assignment to local variable "s".(¡Æ£‰8”Å§ø1J$de7c3c97-64cb-4169-9c79-4cbe45ebaccb
+„
+java:S1854""<Remove this useless assignment to local variable "callable".(ÁÂî¹ÿÿÿÿÿ8ò›¿§ø1J$2bfc1c5d-71e7-46a4-a760-86a9a42d80b3
+}
+java:S1854":Remove this useless assignment to local variable "adder2".(»ç€¹8ò›¿§ø1J$653cd1aa-712c-448b-bd81-e886a6d49e83
+}
+java:S1854":Remove this useless assignment to local variable "adder1".(…ÎÊ¨8ò›¿§ø1J$f588f89f-dd53-4111-9cac-96f4a2d994a3
+n
+java:S1481"+Remove this unused "adder1" local variable.(…ÎÊ¨8õ›¿§ø1J$1fd5c2ea-4be6-4a9e-a38f-6eedb5777f04
+n
+java:S1481"+Remove this unused "adder2" local variable.(»ç€¹8ö›¿§ø1J$751d2cae-a47b-4f6f-98cc-25ca91bbedcf
+r	java:S106"+Replace this use of System.out by a logger.(³›Úşÿÿÿÿ8ö›¿§ø1J$1b6de0c3-002c-478d-bc6d-c069817311e4
+
+java:S1612"HReplace this lambda with method reference 'String::compareToIgnoreCase'.(üÛ—„ùÿÿÿÿ8ù›¿§ø1J$4c0a0f5f-992b-4c9b-bdf9-081cb87d9247
+r	java:S106"+Replace this use of System.out by a logger.( …Ü¼ıÿÿÿÿ8ú›¿§ø1J$15ea410b-4218-4143-9b52-fb4739d829cf
+
+java:S1612"HReplace this lambda with method reference 'String::compareToIgnoreCase'.(£€ÿ¢ÿÿÿÿÿ8û›¿§ø1J$9fd38f00-e61b-4e3e-a303-256cda288343
+r	java:S106!"+Replace this use of System.out by a logger.(øî€Ìúÿÿÿÿ8ü›¿§ø1J$3fa6ae9a-2c7d-4eb3-888b-8dd2f9bea25f
+u
+java:S1481""-Remove this unused "callable" local variable.(ÁÂî¹ÿÿÿÿÿ8ü›¿§ø1J$ad2d91ef-8cbd-434c-bccd-dcc93c153d3d
+ƒ	java:S125$"<This block of commented-out lines of code should be removed.(–»ƒàùÿÿÿÿ8Ì±Â§ø1J$ad5461e1-1d52-4e00-9dc1-475932ff1deb
+~	java:S125&"<This block of commented-out lines of code should be removed.(ë®Ëş8¤®Æ§ø1J$b61532fa-d155-4657-a034-dc220fc5a27b
+i
+java:S1481'"&Remove this unused "s" local variable.(¡Æ£‰8¡Å§ø1J$ba38fd33-5dfe-4763-b674-4b0062b1f5ad
+‚
+java:S1128"?Remove this unused import 'javax.swing.filechooser.FileFilter'.(­Œ™º8¥®Æ§ø1J$4a432dc7-f66f-4706-b314-1086a40526a2

@@ -1,0 +1,17 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûüåßüÿÿÿÿ8§±˜ãø1J$55180852-37f7-42b0-b5b9-b266d4f46e0d
+ƒ
+java:S1854!"@Remove this useless assignment to local variable "studentNames".(•å„ü8°±˜ãø1J$bb5da7ac-3041-4ef1-a5ca-083c0df12434
+~
+java:S1854";Remove this useless assignment to local variable "genders".(ùé Å8°±˜ãø1J$a8a03536-3b92-4ff3-bd69-57b730c97cc0
+…
+java:S1612"=Replace this lambda with method reference 'Student::getName'.(¸îı•ÿÿÿÿÿ8³±˜ãø1J$649963eb-0ded-4c59-a556-332f43bb13da
+o
+java:S1481",Remove this unused "genders" local variable.(ùé Å8¶±˜ãø1J$00fe27a9-01b9-4700-a92c-68983ba6859f
+r	java:S106"+Replace this use of System.out by a logger.(ÌüÇşÿÿÿÿ8¶±˜ãø1J$93b1f366-0467-4416-bc4c-4af97fc78355
+m	java:S106"+Replace this use of System.out by a logger.(™¼Éú8¸±˜ãø1J$f56cafdf-ed15-4e4a-bbad-2cbf2ee1139a
+m	java:S106"+Replace this use of System.out by a logger.(›ü¦»8¸±˜ãø1J$13aeb6e2-defd-4e9b-b4f2-e2961cb81c80
+t
+java:S1481!"1Remove this unused "studentNames" local variable.(•å„ü8¹±˜ãø1J$5ca6e1bc-561d-44fa-9d51-69dafea932b0
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¹±˜ãø1J$3868a504-cca0-4935-8257-bee7a23d143f

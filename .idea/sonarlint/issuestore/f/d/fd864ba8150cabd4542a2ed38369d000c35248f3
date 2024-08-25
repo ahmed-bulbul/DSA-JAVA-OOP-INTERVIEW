@@ -1,0 +1,22 @@
+
+z
+java:S1854"7Remove this useless assignment to local variable "sum".(¶ ÜÉ8•²¹ƒù1J$4765c16a-92f2-436c-bec8-3b52d7734f8d
+€
+java:S1854"=Remove this useless assignment to local variable "function1".(æù™8–²¹ƒù1J$55ec3102-3d08-4302-ad40-d4f2d8431e36
+
+java:S1854"<Remove this useless assignment to local variable "function".(Àòó¨8–²¹ƒù1J$164ddd6c-46b6-4938-9369-859f93286f4c
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÛÜòùÿÿÿÿ8š²¹ƒù1J$36f1fc1d-7434-4542-bce5-aaf95d37ad9a
+r	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8›²¹ƒù1J$3eed4b2c-3fd8-4ffb-979a-1a685b2b7a88
+p
+java:S1481"-Remove this unused "function" local variable.(Àòó¨8²¹ƒù1J$60886751-0aaf-45e6-afb1-48ed20513d1c
+q
+java:S1481".Remove this unused "function1" local variable.(æù™8²¹ƒù1J$644e70cc-cd15-489f-9101-1036aef39995
+£
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(µ¢ğºıÿÿÿÿ8²¹ƒù1J$932cb901-7392-49ad-84c0-7ad39342bdd7
+r	java:S106"+Replace this use of System.out by a logger.(Âö¾úÿÿÿÿ8Ÿ²¹ƒù1J$50426c5b-c2ac-4a7f-bfd5-f8c94ce6cea9
+ 
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(¶ ÜÉ8Ÿ²¹ƒù1J$e3f12e45-d326-4823-9aac-82ac74fe9528
+k
+java:S1481"(Remove this unused "sum" local variable.(¶ ÜÉ8 ²¹ƒù1J$56190728-40c5-41c1-b5cf-75542f064c16
+m	java:S106*"+Replace this use of System.out by a logger.(†¿®÷8¦²¹ƒù1J$a5eb892f-34ff-4020-9c17-02156e295edd
+r	java:S1065"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8ª²¹ƒù1J$f36981ae-2b37-4a0d-966b-949982a82014

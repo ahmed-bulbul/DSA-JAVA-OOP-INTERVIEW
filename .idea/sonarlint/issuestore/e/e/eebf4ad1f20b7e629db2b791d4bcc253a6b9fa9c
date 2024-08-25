@@ -1,2 +1,6 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(É’ï¹ùÿÿÿÿ8úö´íö1J$33a840d4-9d51-42e6-81d9-17e957f9aab0
+r	java:S106"+Replace this use of System.out by a logger.(É’ï¹ùÿÿÿÿ8úö´íö1J$79466979-c06d-4cd0-9da8-0ae8ca33bd13
+t
+java:S1128"1Remove this unused import 'java.util.Observable'.(Ê²ê¸8¨ü©ú”2J$c0a2497c-304f-41ad-a90b-a12d863bb8b1
+r
+java:S1128"/Remove this unused import 'java.util.Observer'.(«Öí·8¨ü©ú”2J$ba7ac3e1-c223-4156-aca3-c5c7d1727c3b

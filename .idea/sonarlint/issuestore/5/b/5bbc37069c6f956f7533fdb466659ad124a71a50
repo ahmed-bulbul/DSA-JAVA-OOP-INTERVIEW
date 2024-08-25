@@ -1,0 +1,14 @@
+
+¡
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'DoubleUnaryOperator'(¿úÊñüÿÿÿÿ8½Áƒù1J$50544a60-1a7c-4b16-98b7-026b76e0e9b9
+y
+java:S1612"6Replace this lambda with method reference 'Math::sin'.(µÙ÷ã8‰æÆƒù1J$b8d41aa7-4124-44ad-87ad-6408ae0555dc
+~
+java:S1612"6Replace this lambda with method reference 'Math::cos'.(ÕÛï’ûÿÿÿÿ8“ùÂƒù1J$72691920-65c6-4923-98ba-b692e544b091
+y
+java:S1612"6Replace this lambda with method reference 'Math::exp'.(Àª¡8”ùÂƒù1J$b5d5d966-1b7d-4bb0-902c-87db260a6c67
+m	java:S106"+Replace this use of System.out by a logger.(şøä€8´¬Æƒù1J$71663c12-a1fe-429c-a198-ef2d495f11e3
+y
+java:S1612"6Replace this lambda with method reference 'Math::sin'.(şøä€8Ô•Ğƒù1J$30b79e8a-531d-4962-b244-4dded1109547
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8–½Áƒù1J$90902a2b-3ae5-4674-9839-7239957829f1

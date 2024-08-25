@@ -1,0 +1,7 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ÍĞœûÿÿÿÿ8µó‹¡2J$ade13f50-0556-4a43-af78-ce31e8b453e7
+Ä
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Êº›Ñ8ºó‹¡2J$62f8e705-6489-48a4-83fc-3d267810b5c3
+~	java:S899"<Do something with the "boolean" value returned by "tryLock".(¢ÍĞÖ8¾ó‹¡2J$6ef11516-ed73-4e15-b7e1-fba56d886b03
+R
+java:S1128"0Remove this unused import 'java.util.HexFormat'.(‡Õæ×úÿÿÿÿ8 Ó·¡2

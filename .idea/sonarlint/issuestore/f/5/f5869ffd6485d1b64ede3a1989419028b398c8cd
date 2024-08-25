@@ -1,0 +1,22 @@
+
+p
+java:S1604"(Make this anonymous inner class a lambda(øÆ¤ìüÿÿÿÿ8¬ðÆ²þ1J$1cdf1bfa-d731-4713-9fc0-82dc79977875
+q
+java:S1172")Remove this unused method parameter "id".(ä…­¤üÿÿÿÿ8¸ðÆ²þ1J$f35efc28-e35a-41da-bd63-59019be828ae
+ˆ
+java:S1117"@Rename "optionalUser" which hides the field declared at line 31.(õè‘Îüÿÿÿÿ8¹ðÆ²þ1J$2e8daae7-ce87-4c2a-9402-21bf9396aa65
+l
+java:S1172")Remove this unused method parameter "id".(ŸÀ”‡8ºðÆ²þ1J$3fcf7cff-887f-4739-99c0-b410b391e3b0
+ƒ
+java:S1612 ";Replace this lambda with method reference 'User::getLogin'.(úí…Ãúÿÿÿÿ8¼ðÆ²þ1J$4c2aa0de-9322-4489-9537-04f03b0b05c5
+p
+java:S1172*"(Remove this unused method parameter "l".(ÕŽ«öþÿÿÿÿ8½ðÆ²þ1J$9eac64bd-ecd3-46b3-8f74-8c9dcb718cd0
+…
+java:S16120"BReplace this lambda with method reference 'Person::getSmartPhone'.(ì—í¡8¾ðÆ²þ1J$11f9e688-7610-4c4f-a759-9aff162e2263
+o
+java:S1172=",Remove this unused method parameter "james".(Ð£§Õ8¿ðÆ²þ1J$387c28b2-2b41-461c-8604-9fb7bda42035
+m	java:S106E"+Replace this use of System.out by a logger.(“¿‘‡8ÁðÆ²þ1J$1a3f2fff-cb00-4b6b-9a30-9b3161f94432
+ƒ	java:S125J"<This block of commented-out lines of code should be removed.(ÍÊü±ùÿÿÿÿ8ÂðÆ²þ1J$fb6a822a-f8cc-4366-94fb-e810c22aceba
+w
+java:S1611O"4Remove the parentheses around the "person" parameter(‚é÷“8ÃðÆ²þ1J$5ae81d43-252c-45b2-ac2b-03e02ee83b51
+ƒ	java:S125P"<This block of commented-out lines of code should be removed.(ÍÊü±ùÿÿÿÿ8—ˆÇ²þ1J$4d470c57-10e6-4e8d-b249-058b93f3f81e

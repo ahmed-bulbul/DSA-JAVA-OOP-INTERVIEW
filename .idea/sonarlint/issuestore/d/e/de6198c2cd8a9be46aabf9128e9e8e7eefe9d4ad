@@ -1,0 +1,18 @@
+
+{
+java:S1854"9Remove this useless assignment to local variable "func3".(âÄôg8İÙÍˆù1J$56ee2a45-6346-4eb3-9d47-c5a53b9585a5
+
+java:S1854"9Remove this useless assignment to local variable "func2".(˜óûşÿÿÿÿ8İÙÍˆù1J$a8fa1d4a-40ae-4b38-b520-a103d3289eb6
+
+java:S1854"9Remove this useless assignment to local variable "func1".(â¬úÌÿÿÿÿÿ8İÙÍˆù1J$2fda2c35-6b4b-478b-99c6-61b631e1d2da
+€
+java:S1612"8Replace this lambda with method reference 'Person::new'.(â¬úÌÿÿÿÿÿ8ßÙÍˆù1J$86ab4b1c-2afd-4332-b37a-ec6a371855c9
+r
+java:S1481"*Remove this unused "func1" local variable.(â¬úÌÿÿÿÿÿ8àÙÍˆù1J$e24d77ec-5287-431a-a186-94378acf04b7
+€
+java:S1612"8Replace this lambda with method reference 'Person::new'.(˜óûşÿÿÿÿ8àÙÍˆù1J$b826d150-e81a-445d-a45e-670cd8ca5ada
+r
+java:S1481"*Remove this unused "func2" local variable.(˜óûşÿÿÿÿ8àÙÍˆù1J$96b2294e-de11-4268-b567-392bdfb8c75a
+l
+java:S1481"*Remove this unused "func3" local variable.(âÄôg8àÙÍˆù1J$11f4bb32-4e19-4d5b-9573-f4f3066a5cf3
+r	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8³ÑÎˆù1J$c147ec98-901d-42c0-8400-00ef4a72bff7

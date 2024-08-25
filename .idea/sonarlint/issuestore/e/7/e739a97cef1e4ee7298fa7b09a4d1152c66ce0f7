@@ -1,0 +1,15 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ÿêîøÿÿÿÿ8‘¸€‹2J$f39912d8-60c7-404e-99ca-ae7e55184276
+€
+java:S1854"=Remove this useless assignment to local variable "videoCall".(ÿÙ‘¡8¸€‹2J$450a8f8c-70ef-4cff-a2ba-c3be14302ca8
+…
+java:S1854"=Remove this useless assignment to local variable "phoneCall".(”²¯•ûÿÿÿÿ8¸€‹2J$2c59b434-e3b3-4f05-a189-e4c00ab8b7e9
+{
+java:S1854"9Remove this useless assignment to local variable "email".(£ÇM8¸€‹2J$1d010de4-4613-4960-a0ac-d69078898b4a
+l
+java:S1481"*Remove this unused "email" local variable.(£ÇM8¡¸€‹2J$bc22bed3-7975-4459-93b8-24ee3a7fa296
+v
+java:S1481".Remove this unused "phoneCall" local variable.(”²¯•ûÿÿÿÿ8¢¸€‹2J$6c1e1767-2f50-4686-891f-c9addbb1f2e9
+q
+java:S1481".Remove this unused "videoCall" local variable.(ÿÙ‘¡8¢¸€‹2J$27ab6545-1ad0-4bba-b595-970cbc366ce0
+~	java:S125"<This block of commented-out lines of code should be removed.(îà“8®¸€‹2J$155c3ffc-1e7c-492a-a7af-e811349be7ba
