@@ -1,4 +1,4 @@
-package lcd.array;
+package dsa.lcd.array;
 
 import java.util.Arrays;
 

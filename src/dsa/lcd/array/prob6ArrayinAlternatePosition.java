@@ -1,4 +1,4 @@
-package lcd.array;
+package dsa.lcd.array;
 
 public class prob6ArrayinAlternatePosition {
     public static void main(String[] args) {

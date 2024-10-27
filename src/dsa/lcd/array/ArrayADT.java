@@ -1,6 +1,4 @@
-package lcd.array;
-
-import dsa.array.Array;
+package dsa.lcd.array;
 
 public class ArrayADT {
 

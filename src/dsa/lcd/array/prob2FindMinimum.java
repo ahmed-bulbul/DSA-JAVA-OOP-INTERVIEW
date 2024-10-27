@@ -1,4 +1,4 @@
-package lcd.array;
+package dsa.lcd.array;
 
 public class prob2FindMinimum {
     public static void main(String[] args) {

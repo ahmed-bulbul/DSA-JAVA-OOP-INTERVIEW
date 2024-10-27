@@ -1,4 +1,4 @@
-package lcd.array;
+package dsa.lcd.array;
 
 public class prob7FindSecondLargestElm {
     public static void main(String[] args) {
