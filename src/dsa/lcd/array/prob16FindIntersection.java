@@ -12,6 +12,7 @@ public class prob16FindIntersection {
             int[] intersectionArray = new prob16FindIntersection().findIntersection(arr2,arr1);
             display(intersectionArray);
         }
+
     }
 
     public static void display(int[] arr){
