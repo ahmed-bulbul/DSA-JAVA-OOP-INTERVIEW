@@ -24,7 +24,7 @@ public class Main {
     public static void printDeleteMenu(){
         System.out.println("Press 1 to delete from HEAD");
         System.out.println("Press 2 to delete from TAIL");
-        System.out.println("Press 1 to delete at specific position");
+        System.out.println("Press 3 to delete at specific position");
     }
 
     public static void main(String[] args) {
