@@ -1,4 +1,4 @@
-package systemDesign.solid;
+package systemDesign.lowlevel.solid;
 
 public class Circle  implements Shape{
     private final int radius;

@@ -1,6 +1,5 @@
-package systemDesign.solid;
+package systemDesign.lowlevel.solid;
 
-import java.awt.*;
 import java.util.List;
 
 public class AreaCalculator {
