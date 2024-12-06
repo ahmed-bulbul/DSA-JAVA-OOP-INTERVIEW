@@ -15,7 +15,6 @@ public class CircularQueue {
         front = 0;
     }
 
-
     /**
      * Insertion operation  @Param data
      * */
@@ -29,7 +28,6 @@ public class CircularQueue {
         queue[rear] = data;
         size++;
     }
-
 
     /**
      * delete from front
@@ -56,12 +54,11 @@ public class CircularQueue {
             return;
         }
 
-
         for(int i=0;i<size;i++){
-           int data =  queue[(front+i) % capacity];
-            System.out.print(data +"\t");
+           int position = (front+i) % capacity;
+           int data = queue[position];
+           System.out.print(data +"\t");
         }
-
         System.out.println();
     }
 
