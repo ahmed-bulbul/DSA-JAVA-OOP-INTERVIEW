@@ -28,6 +28,33 @@ public class BalanceParenthesis {
             return false;
         }
     }
+
+    public static boolean isExpressionBalanceUsingArray(String expression){
+        char[] arr = new char[expression.length()];
+        int top = -1;
+        for(int i=0;i<expression.length();i++){
+            char ch = expression.charAt(i);
+
+            if(ch=='(' || ch == '{' || ch== '['){
+                arr[++top] = ch;
+            }else if(ch==')' || ch == '}' || ch== ']'){
+                if(top == -1) return false;
+                char topChar = arr[top--];
+                if(!isMatchingPair(topChar,ch)){
+                    return false;
+                }
+            }
+        }
+
+        if(top == -1){
+            return true;
+        }else{
+            return false;
+        }
+
+    }
+
+
     private static boolean isMatchingPair(char open, char close){
 
         if(open == '(' && close == ')'){
@@ -42,6 +69,6 @@ public class BalanceParenthesis {
     }
 
     public static void main(String[] args) {
-        System.out.println(isExpressionBalance("[3(345){}]"));
+        System.out.println(isExpressionBalanceUsingArray("[3(345){}]"));
     }
 }
