@@ -1,14 +1,13 @@
 package interview.agoda.strings;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
 public class OccuranceWord {
 
     public static void main(String[] args) {
-        String s = "Hello world Hello";
+        String s = "Hello world Hello world";
         int count = 1;
         String word ="";
         Map<String,Integer> map = new HashMap<>();
@@ -26,6 +25,13 @@ public class OccuranceWord {
 
                 word="";
             }
+        }
+
+        // handle the last word
+        if(map.containsKey(word)){
+            map.put(word,map.get(word)+1);
+        }else{
+            map.put(word,1);
         }
 
         Set<String> words = map.keySet();
